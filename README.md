@@ -3,8 +3,11 @@
 This is my IEEE Data Science beginner level task 
 
 This repository contains 3 files as follows 
+
 1- IEEE task.docx contains essay questions 
+
 2- IEEE task 3 #1.py contains codeforce "Chat Room" task
+
 3- IEEE task 3 #2.py contains codeforce "String Task" task
 
 In case there are any problems with accessing files I also uploaded the folder to drive 
